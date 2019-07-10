@@ -22,3 +22,8 @@
 
 [10. Giám sát libvirt](docs/10.monitor_libvirt.md)
 
+[11. Node export](docs/11.node_exporter.md)
+
+[12. Push Gateway](docs/12.pushgateway.md)
+
+[13. Prometheus remote storage on Influx DB](docs/13.remote_to_influxDB.md)
